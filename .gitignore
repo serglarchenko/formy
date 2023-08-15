@@ -5,7 +5,8 @@
 *.[Cc]ache
 *.bak
 *.ncb
-*.log 
+*.log
+*.class
 
 target/
 .classpath
